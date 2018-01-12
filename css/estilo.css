@@ -1,0 +1,29 @@
+
+body{
+	font-family: arial;
+	margin: 50px auto;
+	max-width: 1280px;
+}
+canvas{
+	border: 1px solid black;
+	width: 100%;
+	height: 500px;
+}
+.controles{
+	height: 200px;
+	width: 100%;
+	text-align: center;
+}
+button{
+	display: inline-block;
+	color: white;
+	background-color: black;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	margin: 10px;
+	font-size: 17px;
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 0.2px;
+}
